@@ -16,8 +16,8 @@ function createBot() {
   reconnecting = false;
 
   const bot = mineflayer.createBot({
-    host: 'sudana_smp.aternos.me',
-    port: 53659,
+    host: 'ptrsmptest.aternos.me',
+    port: 49030,
     username: baseUsername,
     version: '1.16.5',
   });
